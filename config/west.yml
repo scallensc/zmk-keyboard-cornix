@@ -12,8 +12,8 @@ manifest:
       url-base: https://github.com/janpfischer
     - name: cormoran
       url-base: https://github.com/cormoran
-    - name: bwshockley
-      url-base: https://github.com/bwshockley
+    - name: scallensc
+      url-base: https://github.com/scallensc
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -55,7 +55,7 @@ manifest:
     #  revision: main
     #  clone-depth: 1
     - name: prospector-zmk-module
-      remote: bwshockley
+      remote: scallensc
       revision: feat/new-status-screens
   self:
     path: config
