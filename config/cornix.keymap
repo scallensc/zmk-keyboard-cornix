@@ -147,34 +147,37 @@
         combo_1 {
             bindings = <&none>;
             key-positions = <>;
-            layers = <0 1>;
+            layers = <0>;
         };
 
         combo_2 {
             bindings = <&none>;
             key-positions = <>;
-            layers = <0 1>;
+            layers = <0>;
         };
 
         combo_3 {
             bindings = <&none>;
             key-positions = <>;
-            layers = <0 1>;
+            layers = <0>;
         };
 
         combo_4 {
             bindings = <&none>;
             key-positions = <>;
+            layers = <0>;
         };
 
         combo_5 {
             bindings = <&none>;
             key-positions = <>;
+            layers = <0>;
         };
 
         combo_6 {
             bindings = <&none>;
             key-positions = <>;
+            layers = <0>;
         };
     };
 
